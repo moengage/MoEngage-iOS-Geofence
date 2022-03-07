@@ -29,7 +29,7 @@ CocoaPods is a dependency manager for Objective C & Swift projects and makes int
 Thats it!! SDK is successfully integrated in the project, and ready to use. 
 
 ## Developer Docs
-Please refer to our developer docs to know how to make use of our SDK to track Events and User Attributes, to implement Push Notification and InApps: [link](https://developers.moengage.com/hc/en-us/articles/4404022268308-Location-Triggered#how-to-enable-location-triggered--0-0).
+Please refer to our developer docs to know how to make use of our Geofence feature: [link](https://developers.moengage.com/hc/en-us/articles/4404022268308-Location-Triggered#how-to-enable-location-triggered--0-0).
 
 ## Change Log
 See [SDK Change Log](https://github.com/moengage/MoEngage-iOS-Geofence/blob/master/CHANGELOG.md) for information on every released version.
