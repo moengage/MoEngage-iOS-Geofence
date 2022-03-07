@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 
-  s.name         = 'MOGeofence'
+  s.name         = 'MoEngageGeofence'
   s.version      = '4.0.0'
   s.summary      = 'MoEngage SDK for Geofence based campaigns in iOS'
   s.description  = <<-DESC
@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
 
   s.source       = { 
-    :git => 'https://github.com/moengage/MoEngage-iOS-SDK.git', 
+    :git => 'https://github.com/moengage/MoEngage-iOS-Geofence.git', 
     :tag => 'geofence-' + s.version.to_s 
   }
 
