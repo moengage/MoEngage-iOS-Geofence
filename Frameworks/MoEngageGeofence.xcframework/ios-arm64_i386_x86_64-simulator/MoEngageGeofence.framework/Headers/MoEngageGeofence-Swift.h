@@ -217,10 +217,19 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) MOGeofence *
 + (MOGeofence * _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+/// Method to initialize Geofence module.
 - (void)initializeGeofenceModule;
+/// Method to start geofence monitoring
 - (void)startGeofenceMonitoring;
+/// Method to start geofence monitoring
+/// \param appID optional account identifier.
+///
 - (void)startGeofenceMonitoringForAppID:(NSString * _Nullable)appID;
+/// Method to start geofence monitoring
+/// \param delegate MOGeofenceDelegate
+///
 - (void)setGeofenceDelegate:(id <MOGeofenceDelegate> _Nullable)delegate;
+/// Method to reset monitoring of regions
 - (void)resetGeofenceDelegate;
 - (void)moengageSDKStateUpdatedForInstanceID:(NSString * _Nonnull)instanceID;
 @end
@@ -467,10 +476,19 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) MOGeofence *
 + (MOGeofence * _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+/// Method to initialize Geofence module.
 - (void)initializeGeofenceModule;
+/// Method to start geofence monitoring
 - (void)startGeofenceMonitoring;
+/// Method to start geofence monitoring
+/// \param appID optional account identifier.
+///
 - (void)startGeofenceMonitoringForAppID:(NSString * _Nullable)appID;
+/// Method to start geofence monitoring
+/// \param delegate MOGeofenceDelegate
+///
 - (void)setGeofenceDelegate:(id <MOGeofenceDelegate> _Nullable)delegate;
+/// Method to reset monitoring of regions
 - (void)resetGeofenceDelegate;
 - (void)moengageSDKStateUpdatedForInstanceID:(NSString * _Nonnull)instanceID;
 @end
@@ -717,10 +735,19 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) MOGeofence *
 + (MOGeofence * _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+/// Method to initialize Geofence module.
 - (void)initializeGeofenceModule;
+/// Method to start geofence monitoring
 - (void)startGeofenceMonitoring;
+/// Method to start geofence monitoring
+/// \param appID optional account identifier.
+///
 - (void)startGeofenceMonitoringForAppID:(NSString * _Nullable)appID;
+/// Method to start geofence monitoring
+/// \param delegate MOGeofenceDelegate
+///
 - (void)setGeofenceDelegate:(id <MOGeofenceDelegate> _Nullable)delegate;
+/// Method to reset monitoring of regions
 - (void)resetGeofenceDelegate;
 - (void)moengageSDKStateUpdatedForInstanceID:(NSString * _Nonnull)instanceID;
 @end

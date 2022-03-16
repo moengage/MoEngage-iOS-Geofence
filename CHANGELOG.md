@@ -3,10 +3,9 @@
 
 ## Change Log:
 
-### Version 4.0.0  *(31st January, 2022)*
+### Version 4.0.0  *(16th March, 2022)*
 -------------------------------------------
 * Renamed the module to MoEngageGeofence.
-* Added support for multiple AppID.
 
 ### Version 3.2.0  *(31st January, 2022)*
 -------------------------------------------
