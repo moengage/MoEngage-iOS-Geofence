@@ -14,7 +14,7 @@ let package = Package(
         .package(name: "MoEngage-iOS-SDK",url: "https://github.com/moengage/MoEngage-iOS-SDK.git", from: "8.0.0"),
     ],
     targets: [
-        .target(name: "MoEngageGeofenceSPM", dependencies: ["MoEngage-iOS-SDK"], path: "Sources/..",exclude: ["MOGeofence.podspec", "README.md","./Frameworks/MoEngageGeofence.xcframework", "LICENSE","CHANGELOG.md"]),
+        .target(name: "MoEngageGeofenceSPM", dependencies: ["MoEngage-iOS-SDK"], path: "Sources/..",exclude: ["MoEngageGeofence.podspec", "README.md","./Frameworks/MoEngageGeofence.xcframework", "LICENSE","CHANGELOG.md"]),
         .binaryTarget(name: "MoEngageGeofence",path: "./Frameworks/MoEngageGeofence.xcframework")
     ]
 )
