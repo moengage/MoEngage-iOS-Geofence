@@ -2,8 +2,8 @@ BCSymbolMap Version: 2.0
 Apple clang version 13.0.0 (clang-1300.0.29.3)
 /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS15.0.sdk
 iPhoneOS15.0.sdk
-/Users/rakshitha/Library/Developer/Xcode/DerivedData/MoEngage-agkiherlqdmvaeakrqtfvsowceuq/Build/Intermediates.noindex/ArchiveIntermediates/MoEngageGeofence/IntermediateBuildFilesPath/MoEngage.build/Release-iphoneos/MoEngageGeofence.build/DerivedSources/MoEngageGeofence_vers.c
-/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage
+/Users/rakshitha/Library/Developer/Xcode/DerivedData/MoEngage-cmmkomvfnirhvydwlmcpvafliotx/Build/Intermediates.noindex/ArchiveIntermediates/MoEngageGeofence/IntermediateBuildFilesPath/MoEngage.build/Release-iphoneos/MoEngageGeofence.build/DerivedSources/MoEngageGeofence_vers.c
+/Users/rakshitha/MoEngage/MoEngage-iPhone-SDK/MoEFramework/MoEngage
 _$s16MoEngageGeofence25MOGeofenceNetworkProtocolP22performGeoFenceRequest_17completionHandlerySDySSypG_yypSg_SbtctFTj
 _$s16MoEngageGeofence25MOGeofenceNetworkProtocolP25performGeoFenceHitRequest_17completionHandlerySDySSypG_yypSg_SbtctFTj
 _$s16MoEngageGeofence24MOGeofenceNetworkServiceC22performGeoFenceRequest_17completionHandlerySDySSypG_yypSg_SbtctFySb_SDys11AnyHashableVypGSgtcfU_
@@ -134,7 +134,7 @@ _$s16MoEngageGeofence24MOGeofenceNetworkServiceCN
 Apple clang version 13.0.0 (clang-1300.0.29.1)
 <swift-imported-modules>
 Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
-/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofenceNetworkService.swift
+/Users/rakshitha/MoEngage/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofenceNetworkService.swift
 $sypWOc
 <compiler-generated>
 $ss11AnyHashableVWOh
@@ -181,7 +181,7 @@ $ss17_NativeDictionaryV7_valuesSpyq_Gvgs11AnyHashableV_ypTg5
 _convertToAnyHashable
 _symbolic $s16MoEngageGeofence18MOGeofenceDelegateP
 _$s16MoEngageGeofence18MOGeofenceDelegate_pMF
-/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofenceUtils.swift
+/Users/rakshitha/MoEngage/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofenceUtils.swift
 _$s16MoEngageGeofence14TransitionTypeOSQAASQ2eeoiySbx_xtFZTW
 _$ss2eeoiySbx_xtSYRzSQ8RawValueRpzlF16MoEngageGeofence14TransitionTypeO_Tg5
 _$s16MoEngageGeofence14TransitionTypeOSHAASH9hashValueSivgTW
@@ -263,7 +263,7 @@ _$s16MoEngageGeofence15MOGeofenceModelCyACSDySSypGKcfCTq
 _$s16MoEngageGeofence15MOGeofenceModelCN
 _OBJC_CLASS_$__TtC16MoEngageGeofence15MOGeofenceModel
 _$s16MoEngageGeofence14TransitionTypeON
-/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofenceModel.swift
+/Users/rakshitha/MoEngage/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofenceModel.swift
 $s12MoEngageCore0aB10ExceptionsOACs5ErrorAAWl
 $s16MoEngageGeofence14TransitionTypeOACSQAAWl
 $s16MoEngageGeofence14TransitionTypeOSHAASQWb
@@ -473,7 +473,7 @@ _$s16MoEngageGeofence20MOGeofenceControllerC31moengageInstanceSDKStateUpdatedyyF
 _$s16MoEngageGeofence20MOGeofenceControllerCN
 _OBJC_CLASS_$__TtC16MoEngageGeofence20MOGeofenceController
 -private-discriminator _2F787E986222EAD071767CD3C43AFB4A
-/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofenceController.swift
+/Users/rakshitha/MoEngage/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofenceController.swift
 $s16MoEngageGeofence20MOGeofenceControllerC04initC6ModuleyyFy0aB4Core08MOConfigE0CSgcfU_TA
 $s16MoEngageGeofence18MOGeofenceDelegate_pSgXwWOh
 $s16MoEngageGeofence20MOGeofenceControllerC017changeInstanceForC7Service14withIdentifierySS_tFy0aB4Core08MOConfigE0CSgcfU_TA
@@ -672,7 +672,7 @@ changeInstanceForGeofenceService
 $s16MoEngageGeofence20MOGeofenceControllerC04initC6ModuleyyFy0aB4Core08MOConfigE0CSgcfU_
 initGeofenceModule
 $s16MoEngageGeofence20MOGeofenceControllerC14sharedInstance_WZ
-/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofenceConstants.swift
+/Users/rakshitha/MoEngage/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofenceConstants.swift
 _$s16MoEngageGeofence10MOGeofenceC14sharedInstance_WZ
 _$s16MoEngageGeofence10MOGeofenceC14sharedInstanceACvgZTo
 _$s16MoEngageGeofence10MOGeofenceCACyc33_377CE66A74637D344278983D07187B78LlfcTo
@@ -703,7 +703,7 @@ _$s16MoEngageGeofence10MOGeofenceCMf
 _symbolic _____ 16MoEngageGeofence10MOGeofenceC
 _$s16MoEngageGeofence10MOGeofenceCMF
 -private-discriminator _377CE66A74637D344278983D07187B78
-/Users/rakshitha/Documents/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofence.swift
+/Users/rakshitha/MoEngage/MoEngage-iPhone-SDK/MoEFramework/MoEngage/MoEngageGeofence/MOGeofence.swift
 $s16MoEngageGeofence10MOGeofenceCMa
 moengageSDKStateUpdated
 moengageInstanceSDKStateUpdated
