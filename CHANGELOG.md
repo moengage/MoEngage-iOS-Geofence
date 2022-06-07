@@ -2,13 +2,11 @@
 ===========================
 
 ## Change Log:
-### Version 4.1.0  *(30th March, 2022)*
+### Version 4.2.0  *(7th June, 2022)*
 -------------------------------------------
-* Updated the dependency to MoEngage-iOS-SDK 8.1.0.
-
-### Version 4.0.0  *(16th March, 2022)*
--------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 8.2.0.
 * Renamed the module to MoEngageGeofence.
+* Provided Swift Package manager support to install the SDK.
 
 ### Version 3.2.0  *(31st January, 2022)*
 -------------------------------------------

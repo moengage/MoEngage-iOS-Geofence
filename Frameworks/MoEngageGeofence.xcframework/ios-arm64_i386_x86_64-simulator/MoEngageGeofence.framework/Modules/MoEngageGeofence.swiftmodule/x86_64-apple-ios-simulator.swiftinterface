@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
+// swift-compiler-version: Apple Swift version 5.6.1 (swiftlang-5.6.0.323.66 clang-1316.0.20.12)
 // swift-module-flags: -target x86_64-apple-ios10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MoEngageGeofence
 import CoreLocation
 import Foundation
@@ -13,13 +13,16 @@ import _Concurrency
   @objc func geofenceEnterTriggered(withLocationManager locationManager: CoreLocation.CLLocationManager?, andRegion region: CoreLocation.CLRegion?, forAccountMeta accountMeta: MoEngageCore.MOAccountMeta)
   @objc func geofenceExitTriggered(withLocationManager locationManager: CoreLocation.CLLocationManager?, andRegion region: CoreLocation.CLRegion?, forAccountMeta accountMeta: MoEngageCore.MOAccountMeta)
 }
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class GeofenceDelegateHandler : MoEngageCore.GeofenceDelegate {
+  override public func initializeGeofence(sdkInstance: MoEngageCore.SdkInstance)
+  override public func moengageSDKStateUpdated(sdkInstance: MoEngageCore.SdkInstance)
+  @objc deinit
+}
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class MOGeofence : ObjectiveC.NSObject {
   @objc public static let sharedInstance: MoEngageGeofence.MOGeofence
-  @objc public func initializeGeofenceModule()
   @objc public func startGeofenceMonitoring()
   @objc public func startGeofenceMonitoring(forAppID appID: Swift.String? = nil)
-  @objc public func setGeofenceDelegate(_ delegate: MoEngageGeofence.MOGeofenceDelegate?)
-  @objc public func resetGeofenceDelegate()
-  @objc public func moengageSDKStateUpdated(forInstanceID instanceID: Swift.String)
+  @objc public func setGeofenceDelegate(_ delegate: MoEngageGeofence.MOGeofenceDelegate?, appID: Swift.String? = nil)
+  @objc public func resetGeofenceDelegate(appID: Swift.String? = nil)
   @objc deinit
 }
