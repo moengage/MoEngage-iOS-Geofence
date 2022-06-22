@@ -3,19 +3,19 @@
 // swift-module-flags: -target x86_64-apple-ios10.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name MoEngageGeofence
 import CoreLocation
 import Foundation
+import MOCore
 import MoEngageAnalytics
-import MoEngageCore
 @_exported import MoEngageGeofence
 import Swift
 import UIKit
 import _Concurrency
 @objc public protocol MOGeofenceDelegate {
-  @objc func geofenceEnterTriggered(withLocationManager locationManager: CoreLocation.CLLocationManager?, andRegion region: CoreLocation.CLRegion?, forAccountMeta accountMeta: MoEngageCore.MOAccountMeta)
-  @objc func geofenceExitTriggered(withLocationManager locationManager: CoreLocation.CLLocationManager?, andRegion region: CoreLocation.CLRegion?, forAccountMeta accountMeta: MoEngageCore.MOAccountMeta)
+  @objc func geofenceEnterTriggered(withLocationManager locationManager: CoreLocation.CLLocationManager?, andRegion region: CoreLocation.CLRegion?, forAccountMeta accountMeta: MOCore.MOAccountMeta)
+  @objc func geofenceExitTriggered(withLocationManager locationManager: CoreLocation.CLLocationManager?, andRegion region: CoreLocation.CLRegion?, forAccountMeta accountMeta: MOCore.MOAccountMeta)
 }
-@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class GeofenceDelegateHandler : MoEngageCore.GeofenceDelegate {
-  override public func initializeGeofence(sdkInstance: MoEngageCore.SdkInstance)
-  override public func moengageSDKStateUpdated(sdkInstance: MoEngageCore.SdkInstance)
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class GeofenceDelegateHandler : MOCore.GeofenceDelegate {
+  override public func initializeGeofence(sdkInstance: MOCore.SdkInstance)
+  override public func moengageSDKStateUpdated(sdkInstance: MOCore.SdkInstance)
   @objc deinit
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class MOGeofence : ObjectiveC.NSObject {
