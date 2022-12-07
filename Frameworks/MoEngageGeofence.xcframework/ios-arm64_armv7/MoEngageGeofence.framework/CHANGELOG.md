@@ -2,6 +2,10 @@
 ===========================
 
 ## Change Log:
+### Version 5.0.0 *(7th December, 2022)*
+-------------------------------------------
+* All the classes and modules are prefixed with `MoEngage`.
+
 ### Version 4.4.0  *(18th October, 2022)*
 -------------------------------------------
 * Updated the dependency to MoEngage-iOS-SDK 8.4.0
