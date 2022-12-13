@@ -2,6 +2,10 @@
 ===========================
 
 ## Change Log:
+### Version 5.1.0 *(13th December, 2022)*
+-------------------------------------------
+* Added dSYM file support for debugging.
+
 ### Version 5.0.0 *(7th December, 2022)*
 -------------------------------------------
 * All the classes and modules are prefixed with `MoEngage`.
