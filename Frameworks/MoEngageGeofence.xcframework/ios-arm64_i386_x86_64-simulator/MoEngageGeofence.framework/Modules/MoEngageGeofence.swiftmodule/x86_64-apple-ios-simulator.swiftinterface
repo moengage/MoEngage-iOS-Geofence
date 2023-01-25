@@ -22,6 +22,8 @@ import _Concurrency
   @objc public static let sharedInstance: MoEngageGeofence.MoEngageSDKGeofence
   @objc public func startGeofenceMonitoring()
   @objc public func startGeofenceMonitoring(forAppID appID: Swift.String? = nil)
+  @objc public func stopGeofenceMonitoring()
+  @objc public func stopGeofenceMonitoring(forAppID appID: Swift.String? = nil)
   @objc public func setGeofenceDelegate(_ delegate: MoEngageGeofence.MoEngageGeofenceDelegate?, appID: Swift.String? = nil)
   @objc public func resetGeofenceDelegate(appID: Swift.String? = nil)
   @objc deinit
