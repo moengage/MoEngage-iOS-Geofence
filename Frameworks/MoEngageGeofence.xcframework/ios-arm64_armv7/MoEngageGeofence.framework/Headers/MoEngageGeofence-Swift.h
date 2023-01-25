@@ -247,6 +247,12 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) MoEngageSDKG
 /// \param appID optional account identifier.
 ///
 - (void)startGeofenceMonitoringForAppID:(NSString * _Nullable)appID;
+/// Method to stop geofence monitoring
+- (void)stopGeofenceMonitoring;
+/// Method to stop geofence monitoring
+/// \param appID optional account identifier.
+///
+- (void)stopGeofenceMonitoringForAppID:(NSString * _Nullable)appID;
 /// Method to start geofence monitoring
 /// \param delegate MoEngageGeofenceDelegate
 ///
@@ -509,6 +515,12 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) MoEngageSDKG
 /// \param appID optional account identifier.
 ///
 - (void)startGeofenceMonitoringForAppID:(NSString * _Nullable)appID;
+/// Method to stop geofence monitoring
+- (void)stopGeofenceMonitoring;
+/// Method to stop geofence monitoring
+/// \param appID optional account identifier.
+///
+- (void)stopGeofenceMonitoringForAppID:(NSString * _Nullable)appID;
 /// Method to start geofence monitoring
 /// \param delegate MoEngageGeofenceDelegate
 ///

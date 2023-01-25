@@ -2,6 +2,10 @@
 ===========================
 
 ## Change Log:
+### Version 5.3.0 *(25th January 2023)*
+-------------------------------------------
+* Added `stopGeofenceMonitoring` API to support stop geofence monitoring.
+
 ### Version 5.2.0 *(28th December, 2022)*
 -------------------------------------------
 * Updated the dependency to MoEngage-iOS-SDK 9.2.0.
