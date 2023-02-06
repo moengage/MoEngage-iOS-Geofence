@@ -6,7 +6,7 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		CcwR09/ShX3mDRed539DWnBx+Ns=
+		5oKCFH5NAHEHsnlgWqBbT31IWv8=
 		</data>
 		<key>Headers/MoEngageGeofence-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KoUv8H2edk0rQB1zE1UUQalk+qs=
+		I43RwEBl3WmLV68kp3lDjly5hNY=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		38DmYcnRI6ggsTncXzJXqXrIYvE=
+		ym5pFRc+4xDf2na65iA19kQh8ew=
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RKjtX/r3OyeBET3OrUxL1IJs7AE=
+		hIdpVtzDAGG9TJdq21LFi1jctcU=
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -58,7 +58,7 @@
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zW7YpHRatSRxoh3Azmp7n3X5lik=
+		PslltudhPVuYf4wXB6gMV/yA8s8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -75,11 +75,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CcwR09/ShX3mDRed539DWnBx+Ns=
+			5oKCFH5NAHEHsnlgWqBbT31IWv8=
 			</data>
 			<key>hash2</key>
 			<data>
-			mrjkoY90hdE6g6II3Gp+S8enEL6lo8MhP2GsF5PZeoE=
+			QaYPC86CUVGQ2rF1p+37Dc8BHy+8ZZsoFsqQjT1cu7M=
 			</data>
 		</dict>
 		<key>Headers/MoEngageGeofence-Swift.h</key>
@@ -141,11 +141,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			38DmYcnRI6ggsTncXzJXqXrIYvE=
+			ym5pFRc+4xDf2na65iA19kQh8ew=
 			</data>
 			<key>hash2</key>
 			<data>
-			NWBsgAXShAljBHo/l6C6LKq/wLu67zIsOKXbuQLqEWM=
+			aUbqyq9C7AJNHrn8df000uDcevt/wW4baUFEMK701/k=
 			</data>
 		</dict>
 		<key>Modules/MoEngageGeofence.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
@@ -174,11 +174,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			RKjtX/r3OyeBET3OrUxL1IJs7AE=
+			hIdpVtzDAGG9TJdq21LFi1jctcU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ss5LJft4aoO0ukP8hHVVwopSvXwFid97mJbT88Ir7us=
+			HwuZGraHAUcs1wgLJJYdJqZ84NpN6eAN4NguiYv1FZM=
 			</data>
 		</dict>
 		<key>Modules/MoEngageGeofence.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -207,11 +207,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zW7YpHRatSRxoh3Azmp7n3X5lik=
+			PslltudhPVuYf4wXB6gMV/yA8s8=
 			</data>
 			<key>hash2</key>
 			<data>
-			T7uK9uwzBrV9dWxeqv8MLH+4vlUHnCt496WTsOnOm28=
+			aq8R1yzMkPaRAsnnPe6N5MI5k3xu3klX7EvEzWn0GMk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
