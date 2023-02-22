@@ -16,6 +16,7 @@ import _Concurrency
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers public class MoEngageGeofenceDelegateHandler : MoEngageCore.MoEngageGeofenceHandler {
   override public func initializeGeofence(sdkInstance: MoEngageCore.MoEngageSDKInstance)
   override public func moengageSDKStateUpdated(sdkInstance: MoEngageCore.MoEngageSDKInstance)
+  override public func onDataTrackingDisabled(_ sdkInstance: MoEngageCore.MoEngageSDKInstance)
   @objc deinit
 }
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class MoEngageSDKGeofence : ObjectiveC.NSObject {
