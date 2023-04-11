@@ -9,6 +9,7 @@
 ### Version 5.5.0 *(22nd February 2023)*
 -------------------------------------------
 * Updated the dependency to MoEngage-iOS-SDK 9.5.0.
+* Bugfix - Geofence Rest APIs getting called when we disable the Data tracking.
 
 ### Version 5.4.0 *(6th February 2023)*
 -------------------------------------------
