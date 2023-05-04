@@ -6,7 +6,7 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		7BKsd1vDPKpOzlhnQC4r1f9bB0U=
+		+oTTjXexH6cJvAfEDh2vQ5VA9bE=
 		</data>
 		<key>Headers/MoEngageGeofence-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OjZxPXBp3QukalKZt+QY+8ckVuU=
+		t5wAQgjMzRuv9XtcvaS5f//nWAQ=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -26,23 +26,23 @@
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		HrpnR1y3chItvw1EhlmKsa1JmXY=
+		QYNMHXI0nXfACxZR3d5gQibCMQg=
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		DmN3W1GfNBw5kok4qgdjwhmO43s=
+		T1QmGMe+J2U3oNRV/wdJjud9f2w=
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		uhCzaFOHp67VtGwgir9M6f1CnNM=
+		MXl9FSud5MC+mSaDuJ4+ckHp18c=
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		DmN3W1GfNBw5kok4qgdjwhmO43s=
+		T1QmGMe+J2U3oNRV/wdJjud9f2w=
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		dUTpiIk05A0Mx4XSDM15uvw63cY=
+		iTua5xGNQmx4mB+mdV6wbU243fg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -57,21 +57,13 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7BKsd1vDPKpOzlhnQC4r1f9bB0U=
-			</data>
 			<key>hash2</key>
 			<data>
-			L+I0/O3QcEQQL+H6KJXfS4CmGyi7N5rRQ/ljp4jMcyM=
+			TopInoQaJ5bwBVybUW/O7fLsorC73dNHHOtdefYVfQU=
 			</data>
 		</dict>
 		<key>Headers/MoEngageGeofence-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nhu9TbkNueWfqBhDR+GOwrCjyDY=
-			</data>
 			<key>hash2</key>
 			<data>
 			UNbaKwrFuaR44DraEvBK8K75loD3d/Ql31DzGTWQnrQ=
@@ -79,10 +71,6 @@
 		</dict>
 		<key>Headers/MoEngageGeofence.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			8s3pJ6gAi5SRcQpcBQjg2epqIlE=
-			</data>
 			<key>hash2</key>
 			<data>
 			mD8eFpfCO3UK7EOKsY9/8sHJNTTD5mWNXZn9zF2q81k=
@@ -90,10 +78,6 @@
 		</dict>
 		<key>LICENSE</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			DHxoqa3SWsSeiRWX4o3nIP0kO6sTBMPVanytCdzu7ME=
@@ -101,65 +85,41 @@
 		</dict>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			HrpnR1y3chItvw1EhlmKsa1JmXY=
-			</data>
 			<key>hash2</key>
 			<data>
-			M8ED+KmzjF8csqc0zpCVHkfdLjIIM08FB7PvlrDIRGA=
+			MbdChd+Z0bmj6TdtIUrm8ruaD3GNs+idRWUpscV9ZAs=
 			</data>
 		</dict>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DmN3W1GfNBw5kok4qgdjwhmO43s=
-			</data>
 			<key>hash2</key>
 			<data>
-			FIBFe8ZNf2wVzVk2BdSpgHNoNtYF9D64XLY0pVJ/ukU=
+			aqyVkPPnhZ7uhaoLiHLEe4tshSJ1CPShfhmiXovKsYU=
 			</data>
 		</dict>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			uhCzaFOHp67VtGwgir9M6f1CnNM=
-			</data>
 			<key>hash2</key>
 			<data>
-			5dVoOHGuEmu88eqdz3LKSXTyzk66EULPPOh2CNd9LT8=
+			c2SlI/6Rov3ACcmos9xrkl35Lv83Q/jFyopcn9SUx3Y=
 			</data>
 		</dict>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			DmN3W1GfNBw5kok4qgdjwhmO43s=
-			</data>
 			<key>hash2</key>
 			<data>
-			FIBFe8ZNf2wVzVk2BdSpgHNoNtYF9D64XLY0pVJ/ukU=
+			aqyVkPPnhZ7uhaoLiHLEe4tshSJ1CPShfhmiXovKsYU=
 			</data>
 		</dict>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dUTpiIk05A0Mx4XSDM15uvw63cY=
-			</data>
 			<key>hash2</key>
 			<data>
-			tJE6wC/fHfjyoDlMRJvoyrVuMfUYrDDjELn/UNUXH8k=
+			iq/AEcoyukflkc4SoNnV6Hu8oidDj056+wLzkBPqFlo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RO8A+LJuRIK13Q+LOibIXSbQyNw=
-			</data>
 			<key>hash2</key>
 			<data>
 			6rilsRzRzNurI8Ehc1zbHJmmrCK1eeAeT0HP55eWeAs=
@@ -167,10 +127,6 @@
 		</dict>
 		<key>README.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sw/jOj41AqrocG11p4UuIman+04=
-			</data>
 			<key>hash2</key>
 			<data>
 			+GfcHl+vd38PDoTBpMsK6dFtA47vd4FdPIPP4/EWiZg=
