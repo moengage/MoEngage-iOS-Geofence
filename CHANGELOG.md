@@ -2,6 +2,11 @@
 ===========================
 
 ## Change Log:
+
+### Version 5.9.0 *(20th June 2023)*
+-------------------------------------------
+* iOS breakpoint issue fix by creating framework from Xcode 14.3.1.
+
 ### Version 5.8.0 *(4th May 2023)*
 -------------------------------------------
 * Updated the deployment target to 11.0.
