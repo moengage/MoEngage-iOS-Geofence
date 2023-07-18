@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = 'MoEngageGeofence'
-  s.version      = '5.9.0'
+  s.version      = '5.10.0'
   s.summary      = 'MoEngage SDK for Geofence based campaigns in iOS'
   s.description  = <<-DESC
                    MoEngageGeofence framework helps you to trigger notifications based on the exit/entry of geofences. This framework makes use of the Region Monitoring service of CoreLocation to achieve the same.
@@ -23,5 +23,5 @@ Pod::Spec.new do |s|
   s.ios.vendored_frameworks = 'Frameworks/MoEngageGeofence.xcframework'
   s.requires_arc = true
   s.frameworks = 'Foundation', 'UIKit', 'CoreLocation'
-  s.dependency 'MoEngage-iOS-SDK', '>= 9.9.0', '< 10.0.0'
+  s.dependency 'MoEngage-iOS-SDK', '>= 9.10.0', '< 9.11.0'
 end
