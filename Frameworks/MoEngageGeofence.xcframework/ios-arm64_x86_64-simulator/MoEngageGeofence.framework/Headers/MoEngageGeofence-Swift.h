@@ -311,6 +311,7 @@ SWIFT_PROTOCOL("_TtP16MoEngageGeofence24MoEngageGeofenceDelegate_")
 /// Class responsible to Handle Geofence Integration
 SWIFT_CLASS("_TtC16MoEngageGeofence19MoEngageSDKGeofence")
 @interface MoEngageSDKGeofence : NSObject
+/// Singleton instance
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) MoEngageSDKGeofence * _Nonnull sharedInstance;)
 + (MoEngageSDKGeofence * _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
@@ -666,6 +667,7 @@ SWIFT_PROTOCOL("_TtP16MoEngageGeofence24MoEngageGeofenceDelegate_")
 /// Class responsible to Handle Geofence Integration
 SWIFT_CLASS("_TtC16MoEngageGeofence19MoEngageSDKGeofence")
 @interface MoEngageSDKGeofence : NSObject
+/// Singleton instance
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) MoEngageSDKGeofence * _Nonnull sharedInstance;)
 + (MoEngageSDKGeofence * _Nonnull)sharedInstance SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;

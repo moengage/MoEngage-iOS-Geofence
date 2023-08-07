@@ -3,6 +3,10 @@
 
 ## Change Log:
 
+### Version 5.10.1 *(1st August 2023)*
+-------------------------------------------
+* Fixed the threading issue in geofence module by unblocking the main thread.
+
 ### Version 5.10.0 *(18th July 2023)*
 -------------------------------------------
 * iOS breakpoint issue fix by changing the config settings.
