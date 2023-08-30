@@ -3,7 +3,11 @@
 
 ## Change Log:
 
-### Version 5.10.1 *(1st August 2023)*
+### Version 5.11.0 *(30th August 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.11.0.
+
+### Version 5.10.1 *(7th August 2023)*
 -------------------------------------------
 * Fixed the threading issue in geofence module by unblocking the main thread.
 
