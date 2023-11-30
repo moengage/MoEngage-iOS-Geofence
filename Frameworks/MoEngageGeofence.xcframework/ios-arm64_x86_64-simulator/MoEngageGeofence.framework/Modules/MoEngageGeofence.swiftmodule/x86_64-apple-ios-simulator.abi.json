@@ -942,686 +942,686 @@
   },
   "ConstValues": [
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceNetworkService.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceNetworkService.swift",
       "kind": "StringLiteral",
       "offset": 1186,
       "length": 37,
       "value": "\"Error getting geofences from server\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceNetworkService.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceNetworkService.swift",
       "kind": "StringLiteral",
       "offset": 1535,
       "length": 27,
       "value": "\"Geofences : \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceNetworkService.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceNetworkService.swift",
       "kind": "StringLiteral",
       "offset": 1561,
       "length": 74,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceNetworkService.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceNetworkService.swift",
       "kind": "StringLiteral",
       "offset": 1751,
       "length": 46,
       "value": "\"No Geofences available for provided location\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceNetworkService.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceNetworkService.swift",
       "kind": "StringLiteral",
       "offset": 2478,
       "length": 29,
       "value": "\"Geofence Hit request failed\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 7,
       "value": "\"enter\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
       "kind": "StringLiteral",
       "offset": 300,
       "length": 6,
       "value": "\"exit\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 7,
       "value": "\"enter\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
       "kind": "StringLiteral",
       "offset": 300,
       "length": 6,
       "value": "\"exit\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
       "kind": "StringLiteral",
       "offset": 834,
       "length": 5,
       "value": "\"cid\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
       "kind": "StringLiteral",
       "offset": 905,
       "length": 10,
       "value": "\"distance\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
       "kind": "StringLiteral",
       "offset": 981,
       "length": 7,
       "value": "\"geoId\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
       "kind": "StringLiteral",
       "offset": 1054,
       "length": 5,
       "value": "\"lat\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
       "kind": "StringLiteral",
       "offset": 1125,
       "length": 5,
       "value": "\"lng\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
       "kind": "StringLiteral",
       "offset": 1196,
       "length": 16,
       "value": "\"transitionType\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceModel.swift",
       "kind": "StringLiteral",
       "offset": 316,
       "length": 21,
       "value": "\"MoEngageGeofence.MoEngageGeofenceModel\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "IntegerLiteral",
       "offset": 340,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 368,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 1558,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 1713,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 2882,
       "length": 40,
       "value": "\"Location Services disabled by the user\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 3425,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 3459,
       "length": 35,
       "value": "\"Geofence Fetch request initiated:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 3771,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 3812,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 4360,
       "length": 43,
       "value": "\"Region monitoring not available right now\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 4768,
       "length": 53,
       "value": "\"Exception while parsing Geofence Fetch API response\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 4872,
       "length": 10,
       "value": "\"Geofence\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 5570,
       "length": 77,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 5584,
       "length": 1,
       "value": "\"-\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 5602,
       "length": 1,
       "value": "\"-\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 5646,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 5693,
       "length": 99,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 5707,
       "length": 1,
       "value": "\"-\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 5725,
       "length": 1,
       "value": "\"-\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 5748,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 5791,
       "length": 1,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 5841,
       "length": 47,
       "value": "\"Geofence Registered with ID: \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 5887,
       "length": 74,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 6217,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 6421,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 7078,
       "length": 39,
       "value": "\"Geofence removed \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 7116,
       "length": 75,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "IntegerLiteral",
       "offset": 7336,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 8258,
       "length": 26,
       "value": "\"Geofence Hit API Blocked\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "IntegerLiteral",
       "offset": 8761,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "IntegerLiteral",
       "offset": 8847,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 8984,
       "length": 74,
       "value": "\"Geofence Hit API Not called as the instance ID of Geofence doesn't match\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "IntegerLiteral",
       "offset": 9209,
       "length": 1,
       "value": "1"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 9245,
       "length": 2,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "IntegerLiteral",
       "offset": 9295,
       "length": 1,
       "value": "3"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "IntegerLiteral",
       "offset": 9343,
       "length": 1,
       "value": "2"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 11135,
       "length": 33,
       "value": "\"Geofence Hit request initiated:\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 11663,
       "length": 29,
       "value": "\"Geofence Hit API Successful\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 11751,
       "length": 25,
       "value": "\"Geofence Hit API Failed\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 13664,
       "length": 33,
       "value": "\"Geofence Fetch Request not made\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 13795,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "IntegerLiteral",
       "offset": 13851,
       "length": 1,
       "value": "0"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "IntegerLiteral",
       "offset": 13973,
       "length": 2,
       "value": "15"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "IntegerLiteral",
       "offset": 13976,
       "length": 2,
       "value": "60"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 14020,
       "length": 112,
       "value": "\"Geofence can only be fetched in 15 mins durations, not fetching it, as it has been fetched within last 15 mins\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 14229,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 14283,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 14416,
       "length": 50,
       "value": "\"Geofence service is not enabled for the instance\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 14559,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 14718,
       "length": 30,
       "value": "\"SDK is Disabled for instance\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 14841,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 15046,
       "length": 47,
       "value": "\"Geofence Service is Disabled for the instance\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 15187,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "BooleanLiteral",
       "offset": 15228,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceController.swift",
       "kind": "StringLiteral",
       "offset": 262,
       "length": 26,
       "value": "\"MoEngageGeofence.MoEngageGeofenceController\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceInstanceManager.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceInstanceManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1402,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceInstanceManager.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceInstanceManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1412,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 263,
       "length": 18,
       "value": "\"MoEngageGeofence\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 333,
       "length": 5,
       "value": "\"-MO\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 390,
       "length": 3,
       "value": "\"-\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 445,
       "length": 5,
       "value": "\"lat\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 502,
       "length": 5,
       "value": "\"lng\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 559,
       "length": 7,
       "value": "\"geoId\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 618,
       "length": 12,
       "value": "\"campaignID\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 682,
       "length": 12,
       "value": "\"fencesInfo\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 746,
       "length": 16,
       "value": "\"transitionType\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 814,
       "length": 14,
       "value": "\"query_params\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 880,
       "length": 8,
       "value": "\"geo_id\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 940,
       "length": 13,
       "value": "\"campaign_id\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 1005,
       "length": 17,
       "value": "\"transition_type\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 1074,
       "length": 18,
       "value": "\"trigger_location\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 1144,
       "length": 18,
       "value": "\"MOE_GEOFENCE_HIT\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceConstants.swift",
       "kind": "StringLiteral",
       "offset": 1214,
       "length": 19,
       "value": "\"MoEGeofenceBGTask\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceRepository.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceRepository.swift",
       "kind": "BooleanLiteral",
       "offset": 613,
       "length": 5,
       "value": "false"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceLocationManager.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceLocationManager.swift",
       "kind": "StringLiteral",
       "offset": 1564,
       "length": 46,
       "value": "\"location manager failed with error: \""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceLocationManager.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngageGeofenceLocationManager.swift",
       "kind": "StringLiteral",
       "offset": 1609,
       "length": 74,
       "value": "\"\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
       "kind": "BooleanLiteral",
       "offset": 590,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
       "kind": "StringLiteral",
       "offset": 669,
       "length": 4,
       "value": "\"%f\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
       "kind": "StringLiteral",
       "offset": 779,
       "length": 4,
       "value": "\"%f\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
       "kind": "BooleanLiteral",
       "offset": 1357,
       "length": 4,
       "value": "true"
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
       "kind": "StringLiteral",
       "offset": 1436,
       "length": 4,
       "value": "\"%f\""
     },
     {
-      "filePath": "\/Users\/babul.raj@moengage.com\/MoenWorkSpace\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
+      "filePath": "\/Users\/soumya.mahunt\/Documents\/moengage\/MoEngage-iPhone-SDK\/MoEFramework\/MoEngage\/MoEngageGeofence\/MoEngagePayloadBuilder.swift",
       "kind": "StringLiteral",
       "offset": 1546,
       "length": 4,
