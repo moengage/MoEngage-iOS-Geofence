@@ -3,6 +3,11 @@
 
 ## Change Log:
 
+### Version 5.14.0 *(23rd January 2024)*
+-------------------------------------------
+* Added privacy manifest file
+* Added Code signature support for XCFrameworks.
+
 ### Version 5.13.0 *(30th November 2023)*
 -------------------------------------------
 * Updated the dependency to MoEngage-iOS-SDK 9.14.0.

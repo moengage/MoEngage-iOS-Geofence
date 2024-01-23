@@ -1,7 +1,7 @@
 framework module MoEngageGeofence {
   umbrella header "MoEngageGeofence.h"
-
   export *
+
   module * { export * }
 }
 
