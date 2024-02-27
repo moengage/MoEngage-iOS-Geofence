@@ -2,6 +2,13 @@
 ===========================
 
 ## Change Log:
+
+### Version 5.15.0 *(27th February 2024)*
+-------------------------------------------
+* Refactored network layer.
+* Refactored data tracking.
+* Refactored logging.
+
 ### Version 5.14.0 *(23rd January 2024)*
 -------------------------------------------
 * Added privacy manifest file
