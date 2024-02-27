@@ -6,7 +6,7 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		kEdj1q4azY6JPagu9TAuGlDfdMY=
+		odAi/3Z1zDDmbytrUZxQWwFfgdg=
 		</data>
 		<key>Headers/MoEngageGeofence-Swift.h</key>
 		<data>
@@ -18,7 +18,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		PT6jRt8Yq7TyMPtP6ls1Mn1rds4=
+		u5yG2oQo4uEKSF26nFLtbAGlBvg=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -26,7 +26,7 @@
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		3uodwPe554771xBmTk7gh7mlkZk=
+		Cpvbu7dislR1MTAkzcSL0CESsNg=
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		LVuFGYwsDvVB52WUNwslz6eyx9U=
+		j1w5zuEPOS26Vdv320m3H21uoOs=
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		WWOgedL+cd5NHelx2wcZzbINaSQ=
+		KTchekw9r3A1Ady/V/B2nN8VxyE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -63,7 +63,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GRKKB7uMe6rMOtrMebQ/9tAX7uYLlRjbhoLZupxn360=
+			aApW6twrFwTuFKEeuCKaUsRaq8uETMevx+ZgJemBeHw=
 			</data>
 		</dict>
 		<key>Headers/MoEngageGeofence-Swift.h</key>
@@ -91,7 +91,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R3YniMj6FeRJIJZumpUnTeE8LqRQYth5m3c/Kg9uNCc=
+			EOfXrBOPrvtY518ZmnFK0fRv8GfdSezDRQ0To+jRPVo=
 			</data>
 		</dict>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -105,7 +105,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j03XuyCTvkMd2gb14tWr9F86GfTpMDgyrM/zo8c5mZQ=
+			KCkz6yaKXkojur5JPNlnhkxJFm4DOo5pbQ1xkgO8rlo=
 			</data>
 		</dict>
 		<key>Modules/MoEngageGeofence.swiftmodule/arm64-apple-ios.swiftinterface</key>
@@ -119,7 +119,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9AfWV7JEXRFgf2Cbn3W0q9lHJtTU27p8Ie5jb2sA5L4=
+			K4bDCXr2DvRO3/t+0iUXJzaZUEcL/YIvnIVyuneBbOU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
